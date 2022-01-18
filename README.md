@@ -8,3 +8,7 @@ anything you like :)
 i'm from Jakarta, Indonesia
 - where do you live now?
 currently in Jakarta, Indonesia
+- where are you studying?
+Calvin Institute of Technology
+- what major are you in?
+IT and Big Data Analytics
