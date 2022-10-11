@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently a IT & Big Data Analytics student at Calvin Institute of Technology
   
-- 🌱 I’m currently learning Flask and Django API
+- 🌱 I’m currently learning Flask, Django REST API, and Angular!
   
 - 👯 I’m looking to collaborate!
   
