@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently a 6th Semester IT & Big Data Analytics student at Calvin Institute of Technology
   
-- 🌱 I’m currently developing a web application using Angular and Angular Material!
+- 🌱 I’m currently developing a web application using Angular TypeScript and Angular Material!
   
 - 👯 I’m currently learning TailwindCSS and Django REST API!
   
