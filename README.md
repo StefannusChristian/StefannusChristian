@@ -24,21 +24,20 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p float="left">
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
+    <img width ='32px' src="https://img.icons8.com/color/48/null/angularjs.png"/>
+    <img width ='32px' src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width = '32px' src="https://img.icons8.com/color/48/null/typescript.png"/>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+    <img width ='32px' src ='https://img.icons8.com/dusk/344/php-logo.png'>
+    <img width ='32px' src ='https://img.icons8.com/color/344/django.png'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
     <img width ='32px' src ='https://img.icons8.com/color/344/numpy.png'>
-    <img width ='32px' src ='https://img.icons8.com/color/344/adobe-premiere-pro--v2.png'>
-    <img width ='32px' src ='https://img.icons8.com/bubbles/344/audacity.png'>
     <img width ='32px' src ='https://img.icons8.com/fluency/344/microsoft-office-2019.png'>
     <img width ='32px' src ='https://img.icons8.com/color/344/filmora.png'>
-    <img width ='32px' src ='https://img.icons8.com/color/344/django.png'>
-    <img width ='32px' src ='https://img.icons8.com/dusk/344/php-logo.png'>
-    <img width ='32px' src ='[https://img.icons8.com/dusk/344/php-logo.png](https://icons8.com/icon/71257/angularjs)'>
-  
 </p>
 
 
