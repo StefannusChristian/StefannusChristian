@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently a 6th Semester IT & Big Data Analytics student at Calvin Institute of Technology
   
-- 🌱 I’m currently learning and developing a web application using Angular and Angular Material!
+- 🌱 I’m currently developing a web application using Angular and Angular Material!
   
-- 👯 I’m looking to collaborate!
+- 👯 I’m currently learning TailwindCSS and Django REST API!
   
 - 💬 Ask me anything about Python and Angular!
 
@@ -37,6 +37,8 @@
     <img width ='32px' src ='https://img.icons8.com/color/344/filmora.png'>
     <img width ='32px' src ='https://img.icons8.com/color/344/django.png'>
     <img width ='32px' src ='https://img.icons8.com/dusk/344/php-logo.png'>
+    <img width ='32px' src ='[https://img.icons8.com/dusk/344/php-logo.png](https://icons8.com/icon/71257/angularjs)'>
+  
 </p>
 
 
@@ -44,7 +46,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/stefannus-christian-295589209/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/StefannusChristian'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://telegram.me/stefannusC'> <img width = '32px' align= 'center' src="https://img.icons8.com/fluency/344/telegram-app.png"/></a>
+<a href = 'https://telegram.me/esce08'> <img width = '32px' align= 'center' src="https://img.icons8.com/fluency/344/telegram-app.png"/></a>
 <a href = 'https://www.instagram.com/stefannuschristian/'> <img width = '32px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
 
   
